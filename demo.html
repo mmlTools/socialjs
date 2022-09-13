@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Social Sharing jQuery Plugin</title>
+    <meta name="description" content="Social Sharing jQuery Plugin with font awesome icons">
+    <link rel="stylesheet" href="Vendor/css/all.min.css">
+</head>
+<body>
+<div id="Demo"></div>
+<script src="Vendor/js/jquery-3.6.0.min.js"></script>
+<script src="Vendor/js/socialSharing.js"></script>
+<script type="text/javascript">
+    $('#Demo').socialSharingPlugin({
+        urlShare: window.location.href,
+        description: $('meta[name=description]').attr('content'),
+        title: $('title').text()
+    })
+</script>
+</body>
+</html>
