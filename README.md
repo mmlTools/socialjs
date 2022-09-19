@@ -1,5 +1,6 @@
 # Social sharing buttons jquery plugin
- 
+ ![alt text](https://imgur.com/e7afx3e.png)
+
 Create a sharing plugin for your current url; it is the simplest tool to utilize in a blog for allowing readers to share your material using the sharing API on numerous social media networks. The setup is quite simple, and all the parameters are shown below.
 
 # Requirements
