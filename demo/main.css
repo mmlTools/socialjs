@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  background: transparent !important;
+  padding: 0 !important;
+}
+
+.header {
+  background: #f9f9f1 url(img/wallpaper.png);
+  border-bottom: 1px solid #dee2e6;
+  padding: 70px 0;
+}
+
+#Demo2 a,
+#Demo1 a {
+  display: block;
+  font-size: 24px;
+  padding: 0 1rem;
+}
+
+#Demo2 a {
+  background: #000000;
+  padding: 0.55rem;
+  font-size: 16px;
+  width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Demo2 a i {
+  color: #ffffff !important;
+}
+
+/*# sourceMappingURL=main.css.map */
