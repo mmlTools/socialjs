@@ -46,7 +46,7 @@ $('#MySharingButtonsWrapper').socialSharingPlugin({
 | copyMessage              | Copy to clipboard         | Message that appers on the tooltip for the copy link button  |
 
 # JS URL parameters explained
-| Parameter | Description |
+| Parameter     | Description |
 | ------------- | ------------- |
 | [post-title]	| Message title |
 | [post-url]    | Url sent inside your message|
